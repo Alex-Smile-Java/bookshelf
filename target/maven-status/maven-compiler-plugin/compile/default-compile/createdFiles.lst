@@ -1,0 +1,8 @@
+lv\itlat\bookshelf\persistence\domain\Reservation.class
+lv\itlat\bookshelf\controller\MyBooksController.class
+lv\itlat\bookshelf\persistence\repository\BookRepository.class
+lv\itlat\bookshelf\persistence\domain\Book.class
+lv\itlat\bookshelf\controller\JsfHello.class
+lv\itlat\bookshelf\controller\NewBookController.class
+lv\itlat\bookshelf\listener\ContextListener.class
+lv\itlat\bookshelf\persistence\domain\User.class
